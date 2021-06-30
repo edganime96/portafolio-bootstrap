@@ -6,3 +6,22 @@ body {
   /* background: #101010 !important; */
 }
 
+#nombre {
+  color: #C7AF8B;
+  font-size: 5rem;
+  /* font-weight: 700; */
+}
+
+.bg-black {
+  background-color: #000;
+}
+
+#main-header .item {
+  width: 30%;
+}
+
+@media only screen and (min-width: 1199px) {
+  .item {
+    padding: 2.6em!important;
+  }
+}
